@@ -1,0 +1,7 @@
+Para executar é: uvicorn q1:app --reload .
+
+swagger em: http://127.0.0.1:8000/docs .
+
+Url normal: http://127.0.0.1:8000 .
+
+Funciona postman e tudo mais.
